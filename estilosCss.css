@@ -1,4 +1,37 @@
-body
+*
 {
-    background-color: chartreuse;
+    font-family: Helvetica;
+    /* background-color: red; */
+}
+.cabecera
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    /* margin: auto; */
+}
+ul
+{
+    padding: 1em;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: space-around;
+}
+li
+{
+    list-style: none;
+}
+a
+{
+    color: black;
+    padding: .5em 1rem;
+    background-color: rgb(3, 168, 3);
+ text-decoration: none;
+}
+.content
+{
+    border: black solid 3px;
+    padding: 0.5em;
+    background-color: chocolate;
 }
