@@ -2,3 +2,13 @@ body
 {
     background-color: chartreuse;
 }
+div{
+    background-color: chocolate;
+}
+article
+{
+    background-color: crimson;
+}
+div{
+    color: cyan;
+}
