@@ -28,3 +28,9 @@ a
     background-color: rgb(3, 168, 3);
  text-decoration: none;
 }
+.content
+{
+    border: black solid 3px;
+    padding: 0.5em;
+    background-color: chocolate;
+}
